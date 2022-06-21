@@ -1,0 +1,18 @@
+{ 
+    "servers": [
+        
+        {   
+            "username": "test1",
+            "password": "test1pass",
+            "host": "gmail.com",
+            "port": 465
+        },
+        {
+            "username": "test2",
+            "password": "passsword2",
+            "host": "yahoo.com"
+            "port": 465
+        }
+    ]
+}
+    
